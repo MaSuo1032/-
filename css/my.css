@@ -1,0 +1,28 @@
+.navbar{
+		font-family: DFKai-SB
+	}
+.jumbotron{
+		
+		text-align: center;
+	}
+.collapsible {
+	  background-color: #777;
+	  color: white;
+	  cursor: pointer;
+	  padding: 18px;
+	  width: 100%;
+	  border: none;
+	  text-align: left;
+	  outline: none;
+	  font-size: 20px;
+	  text-align: center;
+	}
+.content {
+	  padding: 0 18px;
+	  display: none;
+	  overflow: hidden;
+	  background-color: white;
+}
+.ft{
+	text-align: right;
+}
